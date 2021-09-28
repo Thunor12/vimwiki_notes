@@ -1,0 +1,5 @@
+= Admin de la prérentrée =
+
+== Todo ==
+* [ ] Faire compte Telecom
+* [ ] Finaliser insciption

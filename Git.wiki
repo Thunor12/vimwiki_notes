@@ -1,0 +1,52 @@
+= GIT =
+
+= Initialisation =
+
+== SSH ==
+=== Gestion des clés ssh ===
+Pour utiliser une connextion SSH avec GIT il faut que le repos et la machine ai une clé commune.
+Cette clé est assicoée à une passe phrase qui permet d'échanger de manière criptée.
+
+= Créer des sous modules =
+Sera utile pour organiser les projets en sous organes.
+Je vais prendre l'exemple des cours de soutient pour m'entrainer.
+Pour cela je vais créer un sous modules par séance.
+
+= Pousser depuis le pc =
+Très utile pour ne pas avoir à cloner un repos tout le temps pour l'initialiser.
+
+=== Créer un nouveau repo ===
+{{{sh
+
+$repo_name = repo_name
+$remote_link = remote_link
+
+echo "# $repo_name" >> README.md &&
+git init &&
+git add README.md &&
+git commit -m "first commit" &&
+git branch -M main &&
+git remote add origin $remote_link &&
+git push -u origin main
+
+}}}
+
+=== Pousser vers un existant repo ===
+{{{sh
+
+$remote_link = remote_link
+git remote add origin $remote_link &&
+git branch -M main &&
+git push -u origin main
+
+}}}
+
+== En SSH ==
+Possible en exécutant ces commande.
+* [X] TODO: Je vais faire un script pour rendre le processus plus rapide d'exécution.
+
+== En HTTP ==
+Problème avec l'authentification par mdp.
+* [ ] TODO: Trouver une solution pour pousser en HTTP
+
+

@@ -1,0 +1,19 @@
+= Lundi 27 Septembre =
+
+== Tasks ==
+
+=== Telecom Paris ===
+- [ ] Préparation à la rentée à Télécom Paris
+	- [ ] Initialisation d'un repo git a partir d'un remote: source distante
+
+=== Giamos ===
+- [ ] Rangement du Mega pour Giamos
+	- [ ] Vider le mega
+	- [ ] Faire les version
+
+=== Matos ===
+- [ ] Acheter un écran 27 pouces 2K >100Hz
+- [ ] Un cable mini display port vers display port
+- [ ] Chercher lit canapé sur bon coin
+- [ ] Chercher ampli basse
+
