@@ -1,40 +1,52 @@
-= Mardi 28 Septembre =
+= Mercredi 29 Septembre =
 
-== Notes de la journée ==
-Je me suis familiarisé avec l'outil vimwiki, que je vais utiliser pour prendre des notes de cours et de musique.
-Les fonctionnalités ont l'air promettrices
+== Note de la journée ==
 
 == Tasks ==
 
 === Admin ===
 - [X] Notifier du prélèvement abusif
+- [ ] Faire papier Safran
 - [ ] Faire assurance
 - [ ] Réserver uber pour trajet le Lundi 4 Octobre 2021
+- [ ] Trier mails proton
 
 === Telecom Paris ===
-- [o] Préparation à la rentée à Télécom Paris
+- [.] Préparation à la rentée à Télécom Paris
 	- [X] Initialisation d'un repo git a partir d'un remote: source distante
 	- [ ] Faire des sous module git pour chaque exemple vu en cours
+		- [ ] Liste chainée
+		- [ ] Compilation
+		- [ ] Scipi
 
 === Giamos ===
-- [.] Rangement du Mega pour Giamos
+- [o] Rangement du Mega pour Giamos
+	- [X] Backup le mega
 	- [X] Vider le mega
-	- [.] Faire les versions midi des chansons avec stems
+	- [ ] Rajouter un dossier pour le clip
+	- [ ] Rajouter un dossier admin
+
+- [.] Faire des template de compo
+	- [.] Faire les versions midi des chansons avec stems et consolider
 		- [X] Brixtom
 		- [ ] Selga
 		- [ ] Matta
 		- [ ] Adsagsona
 		- [ ] Anation
-	- [ ] Faire les versions rec des chansons avec stems
-		- [ ] Brixtom
+	- [.] Faire les versions rec des chansons avec stems
+		- [X] Brixtom
 		- [ ] Selga
 		- [ ] Matta
 		- [ ] Adsagsona
 		- [ ] Anation
-	- [ ] Rajouter un dossier pour le clip
-	- [ ] Rajouter un dossier admin
 
 - [ ] Avancer rec brixtom
+
+
+=== Houle ===
+- [ ] Corriger Rec du continent
+- [ ] Faire placement vocal sur Né des Embruns
+- [ ] S'entrainer pour live
 
 === Matos ===
 - [ ] Acheter un écran
@@ -44,3 +56,6 @@ Les fonctionnalités ont l'air promettrices
 - [ ] Un câble mini display port vers display port
 - [ ] Chercher lit canapé sur bon coin
 - [ ] Chercher ampli basse
+
+=== Desktop ===
+- [ ] Configure Newsboat

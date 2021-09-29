@@ -2,18 +2,41 @@
 
 == Tasks ==
 
+=== Admin ===
+- [X] Notifier du prélèvement abusif
+- [ ] Faire assurance
+- [ ] Réserver uber pour trajet le Lundi 4 Octobre 2021
+
 === Telecom Paris ===
-- [ ] Préparation à la rentée à Télécom Paris
-	- [ ] Initialisation d'un repo git a partir d'un remote: source distante
+- [o] Préparation à la rentée à Télécom Paris
+	- [X] Initialisation d'un repo git a partir d'un remote: source distante
+	- [ ] Faire des sous module git pour chaque exemple vu en cours
 
 === Giamos ===
-- [ ] Rangement du Mega pour Giamos
-	- [ ] Vider le mega
-	- [ ] Faire les version
+- [.] Rangement du Mega pour Giamos
+	- [X] Vider le mega
+	- [.] Faire les versions midi des chansons avec stems
+		- [X] Brixtom
+		- [ ] Selga
+		- [ ] Matta
+		- [ ] Adsagsona
+		- [ ] Anation
+	- [ ] Faire les versions rec des chansons avec stems
+		- [ ] Brixtom
+		- [ ] Selga
+		- [ ] Matta
+		- [ ] Adsagsona
+		- [ ] Anation
+	- [ ] Rajouter un dossier pour le clip
+	- [ ] Rajouter un dossier admin
+
+- [ ] Avancer rec brixtom
 
 === Matos ===
-- [ ] Acheter un écran 27 pouces 2K >100Hz
-- [ ] Un cable mini display port vers display port
+- [ ] Acheter un écran
+	- 27 pouces
+	- 2K
+	- >= 100Hz
+- [ ] Un câble mini display port vers display port
 - [ ] Chercher lit canapé sur bon coin
 - [ ] Chercher ampli basse
-
